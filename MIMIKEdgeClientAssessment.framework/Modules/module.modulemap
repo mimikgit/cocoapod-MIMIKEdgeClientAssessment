@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientAssessment {
+  header "MIMIKEdgeClientAssessment-Swift.h"
+  requires objc
+}
