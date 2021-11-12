@@ -1,0 +1,2 @@
+# cocoapod-MIMIKEdgeClientAssessment
+cocoapod-MIMIKEdgeClientAssessment
