@@ -10,10 +10,10 @@ Pod::Spec.new do |s|
 
   s.name         = "MIMIKEdgeClientAssessment"
   s.version      = "12.5.1"
-  s.summary      = "mimik profile service library"
+  s.summary      = "mimik assessment service library"
 
   s.description  = <<-DESC
-   MIMIKEdgeClientAssessment cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik profile services.
+   MIMIKEdgeClientAssessment cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik assessment services.
   DESC
 
   s.homepage     = "https://github.com/mimikgit/cocoapod-MIMIKEdgeClientAssessment"

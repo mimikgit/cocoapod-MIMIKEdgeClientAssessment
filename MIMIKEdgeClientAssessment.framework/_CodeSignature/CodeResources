@@ -4,25 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Config/MIMIKEdgeClientAssessment.podspec-xcode-12-5-x</key>
-		<data>
-		0gWFP6PLtnS5aGiJKTKFVADAW4w=
-		</data>
-		<key>Config/MIMIKEdgeClientAssessment.podspec-xcode-13-0-x</key>
-		<data>
-		pbcubRTyajl4GpuDjj1JfxNKrQw=
-		</data>
-		<key>Config/Podfile-xcode-13-0-x</key>
-		<data>
-		ry0YnmeYDvonZJDPOVe2vKszmRw=
-		</data>
 		<key>Headers/MIMIKEdgeClientAssessment-Swift.h</key>
 		<data>
 		BXK8pNm9zIpNsHZw3PmlHxctH54=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5Xw4nUZzqXZiRAvxkK3Ec+LRyQg=
+		d8QY1B0kWgmiFkfhpak7v3vCdUY=
 		</data>
 		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
@@ -55,27 +43,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Config/MIMIKEdgeClientAssessment.podspec-xcode-12-5-x</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qc7eR/VuscZdl1/Q4pbqW17IrFn5Q4L2B6AMrGvCeFQ=
-			</data>
-		</dict>
-		<key>Config/MIMIKEdgeClientAssessment.podspec-xcode-13-0-x</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hzqCZdoty40cyorrmt3X7zNzbieu57FzMvLx70xmuXs=
-			</data>
-		</dict>
-		<key>Config/Podfile-xcode-13-0-x</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xIs/sKp8RB/YcM26ODo76Ues2sgH6Y57RcAbipeiyC0=
-			</data>
-		</dict>
 		<key>Headers/MIMIKEdgeClientAssessment-Swift.h</key>
 		<dict>
 			<key>hash2</key>
