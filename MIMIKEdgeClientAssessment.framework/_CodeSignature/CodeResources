@@ -6,27 +6,19 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientAssessment-Swift.h</key>
 		<data>
-		mWK97CeUicIQB6oLgZyA/WQ5AIw=
+		Ebl6uj4VrAh6R0zdi7zrTQ0r/Gs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UawEljYEHT3dGF5DVV1O+lHUjtU=
+		Bv2QKd1EQmwneFXkTBDCVDG3oyo=
 		</data>
 		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		UgLjrP5SNkTZdeGxFXgwONX9mD4=
+		RnwhkB5JR/yDbMSTgVVv63Mdv0U=
 		</data>
 		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IuM96AnaOBX9TjefbvlUGCKXWsw=
-		</data>
-		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		UgLjrP5SNkTZdeGxFXgwONX9mD4=
-		</data>
-		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		IuM96AnaOBX9TjefbvlUGCKXWsw=
+		LCBT2SI5iUa+iJth7YjAcGMDvEY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +31,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lvw24Lv507gmROBkkhSm/+d+lkIs0ors4/Sl9ZcSr+g=
+			lENnhznZC53uTEbaY49LZs1NqCT5jk4pJT7FCU6wOcY=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cb6bLRXpjcOwzeH9IJJYs2f+W5r4EdyL1LE+8hEVvis=
+			+9QJ3LoWL0HViZ7qmEgxIEV724Qn5q9GdnMBhORlVD8=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qx2REJFPiWYgU0DKvWqCF91c7rTPtIEMTVwP9ufrtO4=
-			</data>
-		</dict>
-		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Cb6bLRXpjcOwzeH9IJJYs2f+W5r4EdyL1LE+8hEVvis=
-			</data>
-		</dict>
-		<key>Modules/MIMIKEdgeClientAssessment.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qx2REJFPiWYgU0DKvWqCF91c7rTPtIEMTVwP9ufrtO4=
+			85P9XeAoFNnNllUn6p0RX+Qvi7e8/PNfBSypxFOEBWI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
